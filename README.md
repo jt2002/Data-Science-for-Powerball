@@ -23,8 +23,8 @@ The script pre-processes the winning numbers to 2 matrices:
 1. A 69-columns matrix
 2. A 26-columns matrix 
 
-Each row represents one draw where the winning number is 1 and 0 otherwise.  
+Each row represents one draw where the columns of the winning number is 1 and 0 otherwise. 
 
-Then, the script picks 5 white balls and 1 powerball and prints the predicted winning number.  
+Then, the script picks 5 white balls and 1 powerball and prints the predicts winning number.  
 
 When using `random.seed(0)`, Powerball to play is `[9, 33, 41, 48, 56] [24]`
