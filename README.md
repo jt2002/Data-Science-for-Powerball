@@ -1,6 +1,6 @@
 # Data Science for Powerball
 
-Apply Reinforcement Learning to pick Powerball winning numbers
+Implementation of Reinforcement Learning to pick Powerball winning numbers
 
 Two Python scripts:
 1. Pull historical Powerball winning numbers
