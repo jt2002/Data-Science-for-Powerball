@@ -6,7 +6,7 @@ Two Python scripts:
 1. Pull historical Powerball winning numbers
 2. Learn from the data and pick the next winning number
 
-### 1. Historical Powerball Winning Numbers
+### 1. Historical Powerball Numbers
 
 The script `powerball_numbers.py` scrapes the winning numbers from [PowerBall.net](https://www.powerball.net/archive) 
 using [Request-HTML](https://requests-html.kennethreitz.org/).  
