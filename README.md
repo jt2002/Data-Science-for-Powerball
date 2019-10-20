@@ -13,9 +13,7 @@ using [Request-HTML](https://requests-html.kennethreitz.org/).
 ```
 	$ pip install requests-html
 ```
-Then, it writes the numbers to a CSV file `powerball_numbers.csv`.  
-
-The winning numbers from April 22, 1992 to October 16, 2019 `powerball_numbers_since_1992.csv` is available.
+It writes the numbers to a CSV file `powerball_numbers.csv`.  The winning numbers from April 22, 1992 to October 16, 2019 `powerball_numbers_since_1992.csv` is available for download.
 
 ### 2. Reinforcement Learning to Predict the Next Powerball Numbers
 
