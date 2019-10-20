@@ -16,11 +16,7 @@ for year in reversed(range(1992, 2020)):
     archive_boxes = r.html.find('.archive-box')
 
     for archive_box in archive_boxes:
-
-        # Get draw date from 'href': '/numbers/1992-12-30'
         drawdate = archive_box.attrs['href'].split('/')[2]
-        
-        # List of 5 balls
         balls = [ball.text for ball in archive_box.find('.ball')]
         powerball = archive_box.find('.powerball', first=True).text
         
