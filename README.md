@@ -15,7 +15,7 @@ using [Request-HTML](https://requests-html.kennethreitz.org/).
 ```
 It writes the numbers to a CSV file `powerball_numbers.csv`.  The winning numbers from April 22, 1992 to October 16, 2019 `powerball_numbers_since_1992.csv` is available for download.
 
-### 2. Predict the Next Powerball Numbers
+### 2. Predict the Next Winning Numbers
 
 On October 4, 2015, the Powerball format was updated to use a 5/69 (white balls) + 1/26 (Powerballs).  The data to feed the script should start from October 7, 2015.
 
