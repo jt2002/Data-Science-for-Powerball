@@ -28,3 +28,7 @@ Each row represents one draw where the columns of the winning number is 1 and 0 
 Then, the script picks 5 white balls and 1 powerball and prints the predicts winning number.  
 
 When using `random.seed(0)`, Powerball to play is `[9, 33, 41, 48, 56] [24]`
+
+**Disclaimer:** The author makes no warranties, guarantees or representations, of any kind, express or implied, as to the usefulness, completeness, or reliability of the information contained in the codes.
+
+**Quoted from https://www.powerball.com/play-responsibly:** "Play Responsibly. Never spend more than you can afford on any lottery product. Please remember, it's just a game."
